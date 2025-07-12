@@ -8,7 +8,10 @@ A Python implementation of the classic Flappy Bird game using Pygame, featuring 
 - **Interactive Menus:** Main menu, difficulty selection, and game over screens
 - **Sound Effects:** Wing flapping, scoring, collision, and menu sounds
 - **Smooth Controls:** Keyboard (SPACE/UP) and mouse click controls
-- **Visual Feedback:** Shadow effects on text and intuitive button interactions## 📸 Screenshots
+- **Visual Feedback:** Shadow effects on text and intuitive button interactions
+
+
+## 📸 Screenshots
 
 ### Main menu
 ![Main menu](screenshots/mainmenu.png)
